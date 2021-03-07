@@ -1,4 +1,3 @@
-# Developer Test Guide
 
 ## How to start
 
